@@ -5,7 +5,7 @@
   <img style="height: 147px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3C0DE&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img alt="Ge-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Ge-Sql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
