@@ -1,8 +1,8 @@
 ## G3C0DE
 
 <div style="display: flex; align-items: center;">
-  <img style="height: 130px;" src="https://github-readme-stats.vercel.app/api?username=G3C0DE&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img style="height: 130px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3C0DE&layout=compact&langs_count=16&theme=dark"/>
+  <img style="height: 140px;" src="https://github-readme-stats.vercel.app/api?username=G3C0DE&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img style="height: 140px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3C0DE&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
