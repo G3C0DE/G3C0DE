@@ -5,13 +5,14 @@
   <img style="height: 147px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G3C0DE&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ge-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Ge-Sql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Ge-PGSql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Ge-MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<div align="center">
+  <img alt="Ge-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Ge-Sql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Ge-PGSql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Ge-MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 ##
